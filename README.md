@@ -75,6 +75,8 @@ things.
 ## More about me
 https://linktr.ee/cauandzn
 
+[![An image of @cauandzn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cauandzn)](https://holopin.io/@cauandzn)
+
 ## Roadmap.sh
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64af0bb55f038d81eeaca545?variant=dark" alt="roadmap.sh"/></a>
 
