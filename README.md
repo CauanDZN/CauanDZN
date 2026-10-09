@@ -38,12 +38,12 @@ Gosto de ver código resolvendo problema de verdade. Por isso, boa parte do que 
 
 Meu perfil junta quatro papéis que se alimentam entre si:
 
-| | Papel | Na prática |
-|---|---|---|
-| 👨‍💻 | **Developer** | Aplicações web fullstack, APIs, integrações, automações e infraestrutura. |
-| 🧭 | **Mentor** | Apoio quem está começando (ou migrando) com direção de estudo, carreira e portfólio. |
-| 🎤 | **Speaker** | Levo conteúdo de tecnologia para eventos e comunidades. |
-| 🎓 | **Teacher** | Ensino programação e dados de forma prática, sem enrolação. |
+| Papel | Na prática |
+|---|---|
+| 👨‍💻 **Developer** | Aplicações web fullstack, APIs, integrações, automações e infraestrutura. |
+| 🧭 **Mentor** | Apoio quem está começando (ou migrando) com direção de estudo, carreira e portfólio. |
+| 🎤 **Speaker** | Levo conteúdo de tecnologia para eventos e comunidades. |
+| 🎓 **Teacher** | Ensino programação e dados de forma prática, sem enrolação. |
 
 > 💡 **Minha filosofia:** software bom é aquele que alguém consegue usar, manter e evoluir. Prefiro soluções simples, testadas e bem documentadas a arquiteturas "impressionantes" que ninguém entende.
 
@@ -53,50 +53,14 @@ Meu perfil junta quatro papéis que se alimentam entre si:
 
 ## 🎯 O que eu faço
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌐 Desenvolvimento Fullstack
-Aplicações web completas, do front ao banco de dados: **React, Next.js, Node.js, NestJS, Java/Spring, Python/FastAPI e PHP**, com APIs REST, autenticação, dashboards e painéis administrativos.
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🤖 Automação & Integrações
-Fluxos com **n8n**, bots e integrações com **WhatsApp**, APIs de pagamento, ERPs/sistemas legados (inclusive **WSDL/SOAP**), e-mails, planilhas e Google Drive: menos trabalho repetitivo, mais tempo para o que importa.
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🧠 IA Aplicada
-Soluções com **LLMs e visão computacional**: OpenAI, LangChain, assistentes de atendimento, leitura e geração de **PDFs**, extração de dados de documentos, servidores **MCP** e fluxos de trabalho com **Claude Code**.
-
-    </td>
-    <td width="50%" valign="top">
-
-### 📊 Dados & BI
-**ETL**, tratamento de planilhas e XML, painéis de frequência, faturamento e indicadores, transformando dado bruto em decisão.
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### ☁️ Infra & DevOps
-**Docker, Linux, Bash**, servidores e virtualização (**Proxmox**), **Active Directory/GPO/DNS**, hospedagem, pipelines e noções de **Kubernetes e AWS**. Código só vale quando chega em produção.
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🧱 Manutenção & Modernização
-Sustentação de **sistemas legados** (PHP, WordPress), análise de segurança, refatoração gradual e migração sem parar a operação.
-
-    </td>
-  </tr>
-</table>
+| Área | O que eu entrego |
+|---|---|
+| 🌐 **Desenvolvimento Fullstack** | Aplicações web completas, do front ao banco de dados: **React, Next.js, Node.js, NestJS, Java/Spring, Python/FastAPI e PHP**, com APIs REST, autenticação, dashboards e painéis administrativos. |
+| 🤖 **Automação & Integrações** | Fluxos com **n8n**, bots e integrações com **WhatsApp**, APIs de pagamento, ERPs/sistemas legados (inclusive **WSDL/SOAP**), e-mails, planilhas e Google Drive: menos trabalho repetitivo, mais tempo para o que importa. |
+| 🧠 **IA Aplicada** | Soluções com **LLMs e visão computacional**: OpenAI, LangChain, assistentes de atendimento, leitura e geração de **PDFs**, extração de dados de documentos, servidores **MCP** e fluxos de trabalho com **Claude Code**. |
+| 📊 **Dados & BI** | **ETL**, tratamento de planilhas e XML, painéis de frequência, faturamento e indicadores, transformando dado bruto em decisão. |
+| ☁️ **Infra & DevOps** | **Docker, Linux, Bash**, servidores e virtualização (**Proxmox**), **Active Directory/GPO/DNS**, hospedagem, pipelines e noções de **Kubernetes e AWS**. Código só vale quando chega em produção. |
+| 🧱 **Manutenção & Modernização** | Sustentação de **sistemas legados** (PHP, WordPress), análise de segurança, refatoração gradual e migração sem parar a operação. |
 
 ### Setores em que já construí soluções
 Educação e cursos online • RH e controle de ponto • Financeiro e cobrança • Jurídico (assinatura de contratos) • Varejo e e-commerce • Saúde • Comunidades e eventos.
@@ -210,7 +174,7 @@ Acredito que **conhecimento só vale quando circula**. Por isso:
 
 ## 🌱 Agora
 
-| | |
+| Foco | Detalhe |
 |---|---|
 | 🔭 **Trabalhando em** | Projetos pessoais e soluções de automação + IA para clientes |
 | 🧪 **Explorando** | Agentes de IA, servidores MCP, fluxos com Claude Code e automações com n8n |
